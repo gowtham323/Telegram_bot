@@ -1,1 +1,1 @@
-Hey this is my first bot to covert image to black and white send it
+worker python telechatbotconv.py
